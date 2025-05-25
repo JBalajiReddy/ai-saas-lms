@@ -1,6 +1,6 @@
 # 📘 Nexutor
 
-[Live Demo](https://ai-saas-lms.vercel.app/)
+**[Live Demo](https://ai-saas-lms.vercel.app/)**
 
 ## 📋 Table of Contents
 
