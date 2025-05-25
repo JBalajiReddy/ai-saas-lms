@@ -9,11 +9,12 @@ const Navbar = () => {
             <Link href="/">
                 <div className="flex items-center gap-2.5 cursor-pointer">
                     <Image
-                        src="/images/Nexutor-logo.svg"
+                        src="/images/favicon.svg"
                         alt="logo"
                         width={46}
                         height={44}
                     />
+                   <h2 className="font-bold">Nexutor</h2> 
                 </div>
             </Link>
             <div className="flex items-center gap-8">

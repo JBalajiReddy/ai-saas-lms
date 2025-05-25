@@ -47,3 +47,5 @@ next-env.d.ts
 .env.sentry-build-plugin
 
 public
+
+favicon1.ico
